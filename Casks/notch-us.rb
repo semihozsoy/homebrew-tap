@@ -1,6 +1,6 @@
 cask "notch-us" do
-  version "1.3.0"
-  sha256 "a33f4b17f332a10118f025291dbc26d5240089b7c41b4368590613abece1d8be"
+  version "1.3.1"
+  sha256 "290fb84984b7187c86df44c9bd3bf6326b4bdbebd981c590d6d1589b1db58619"
 
   url "https://github.com/semihozsoy/notch-us/releases/download/v#{version}/NotchUs.zip"
   name "Notch Us"
